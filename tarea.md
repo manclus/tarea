@@ -1,2 +1,2 @@
 ## Conectores externos
-![manclus](conectores.png)
+![manclus](/fotos/conectores.jpg)
